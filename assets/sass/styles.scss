@@ -1,14 +1,20 @@
 .home {
     --bd-purple: #4c0bce;
-    --bd-violet: #712cf9;
+    --bd-violet: #e2e0e8;
     --bd-accent: #ffe484;
     --bd-violet-rgb: 112.520718,44.062154,249.437846;
+    --red: #d81313; /* Red */
+    --blue: #2a56db; /* SlateBlue */
     --bd-accent-rgb: 255,228,132;
     --bd-pink-rgb: 214,51,132;
 
     .bd-masthead {
         padding: 3rem 0;
-        background-image: linear-gradient(180deg, rgba(var(--bs-body-bg-rgb), 0.01), rgba(var(--bs-body-bg-rgb), 1) 85%),radial-gradient(ellipse at top left, rgba(var(--bs-primary-rgb), 0.5), transparent 50%),radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center right, rgba(var(--bd-violet-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center left, rgba(var(--bd-pink-rgb), 0.5), transparent 50%);
+        background-image: 
+        linear-gradient(180deg, rgba(rgb(255, 0, 0), 0.2), rgba(255,255,255, 1) 85%), 
+        radial-gradient(ellipse at top left, rgba(rgb(25, 89, 217), 0.7), transparent 50%), 
+        radial-gradient(ellipse at top right, rgba(rgb(106, 9, 9), 0.7), transparent 60%), 
+        
     }
 
     .btn-bd-primary {
@@ -30,11 +36,12 @@
 .navbar {
     @extend .navbar-dark;
 
-    --bd-violet-rgb: 112.520718,44.062154,249.437846;
     
+    --red-rgb: 255, 30, 0;
+
     padding: .75rem 0;
     background-color: transparent;
-    background-image: linear-gradient(to bottom, rgba(var(--bd-violet-rgb), 1), rgba(var(--bd-violet-rgb), 0.95));
+    background-image: linear-gradient(to bottom, rgba(var(--red-rgb), 1), rgba(var(--red-rgb), 0.95));
     box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15),inset 0 -1px 0 rgba(0,0,0,0.15);
 }
 
