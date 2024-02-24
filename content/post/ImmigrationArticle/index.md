@@ -1,6 +1,6 @@
 ---
 title: "Difficulties Immigrants Face"
-description: "It’s official, the final stable release of v5.3.0 has landed!"
+description: "Read about some of the challenges that immigrants face during the course of the application process."
 date: 2023-11-29
 draft: false
 images: ["bootstrap-5-3.png"]
