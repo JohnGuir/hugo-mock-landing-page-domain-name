@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bootstrap on Immigra</title>
-    <link>https://JohnGuir.github.io/hugo-mock-landing-page/tags/bootstrap/</link>
+    <link>http://localhost:1313/hugo-mock-landing-page/tags/bootstrap/</link>
     <description>Recent content in Bootstrap on Immigra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>John Guirguis</copyright>
     <lastBuildDate>Sat, 24 Feb 2024 15:13:51 -0500</lastBuildDate>
-    <atom:link href="https://JohnGuir.github.io/hugo-mock-landing-page/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-mock-landing-page/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Difficulties Immigrants Face</title>
-      <link>https://JohnGuir.github.io/hugo-mock-landing-page/post/immigrationarticle/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/post/immigrationarticle/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://JohnGuir.github.io/hugo-mock-landing-page/post/immigrationarticle/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/post/immigrationarticle/</guid>
       <description>In a recent article in migrationpolicy.org the following issues were found with the immigration application process.&#xA;The U.S. immigration system, long criticized for its reliance on outdated paper processes and persistent backlogs, has undergone subtle yet significant changes to adapt to the demands of the 21st century, with the COVID-19 pandemic serving as a catalyst. Embracing high-tech solutions and streamlined operations, including increased online application options, remote hearings, extended document validity periods, and interview waivers, has resulted in faster processing of visas, improved access to work permits, and record numbers of cases resolved in immigration courts.</description>
     </item>
   </channel>
