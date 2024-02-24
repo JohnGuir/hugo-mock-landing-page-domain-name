@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+Hey everyone my name is John Guirguis, a senior at the University of Pennsylvania studying biology and computer sciene. If you would like to see some of my other projects check out my [Github](https://github.com/JohnGuir/)!
