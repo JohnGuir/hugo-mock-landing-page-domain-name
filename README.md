@@ -1,5 +1,5 @@
-# hugo-mock-landing-page-autodeployed
-Part II of Homework 2 - An identical version of the landing page that we created for the previous homework but which leverages github actions to automatically deploy any changes made to the website. This allows users to experience the newest version website without interruption.
+# hugo-mock-landing-page-domain-name
+Part III of Homework 2 - An autodeployed landing page that also employs a custom domain name. This project involves 
 
 
 
